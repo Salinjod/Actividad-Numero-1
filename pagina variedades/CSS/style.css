@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    font-style: oblique;
+    place-content: inherit;
+}
+h2 {
+    color: red;
+    font-style: oblique;
+    place-content: inherit;
+}
+h3 {
+    color: red;
+    font-style: oblique;
+    place-content: inherit;
+}
+div{
+    background-color: black; 
+}
+.btngaleria { 
+    background-color: lightblue;
+    font-size:"15px";
+}
